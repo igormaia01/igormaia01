@@ -1,6 +1,6 @@
 <h2> Hi, I'm Igor Maia! <img src="https://media.giphy.com/media/vrUqksyo8PBdoDQTCM/giphy.gif" width="50"></h2>
 
-<p><em>Software Developer at @InCicle</em></p>
+<p><em>Software Developer at @MBLABS</em></p>
 
 ## 👾 &nbsp;About Me
 
