@@ -4,8 +4,8 @@
 
 ## 👾 &nbsp;About Me
 
-- 🔭 I'm learning Docker and CI/CD with GitLab.
-- 🌱 I'm currently using Php with Laravel, Javascript with Adonis.
+- 🔭 Awalys Learning.
+- 🌱I'm igor maia, I'm 22 years old, I've been a programmer for 5 years and I'm currently working on developing banking solutions, working mainly on building fast and secure applications.
 
 
 <p align="center">
