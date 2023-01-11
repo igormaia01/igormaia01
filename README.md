@@ -5,7 +5,7 @@
 ## 👾 &nbsp;About Me
 
 - 🔭 Awalys Learning.
-- 🌱I'm igor maia, I'm 22 years old, I've been a programmer for 5 years and I'm currently working on developing banking solutions, working mainly on building fast and secure applications.
+- 🌱I'm igor maia, I've been a programmer for 5 years and I'm currently working on developing banking solutions, working mainly on building fast and secure applications.
 
 
 <p align="center">
